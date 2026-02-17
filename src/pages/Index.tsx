@@ -125,12 +125,12 @@ const Index = () => {
 
   const handleWhatsApp = () => {
     const msg = encodeURIComponent("Olá! Confirmo minha presença na festa do Samuel no dia 07/03! 🎂⛏️");
-    window.open(`https://wa.me/?text=${msg}`, "_blank");
+    window.open(`https://wa.me/5561991611607?text=${msg}`, "_blank");
   };
 
   const handleLocation = () => {
     // Placeholder - user should update with real location
-    window.open("https://maps.google.com", "_blank");
+    window.open("https://maps.app.goo.gl/kTUh7VneGJTJ9Xye6", "_blank");
   };
 
   return (
