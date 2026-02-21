@@ -130,7 +130,7 @@ const Index = () => {
 
   const handleLocation = () => {
     // Placeholder - user should update with real location
-    window.open("https://maps.app.goo.gl/kTUh7VneGJTJ9Xye6", "_blank");
+    window.open("https://maps.app.goo.gl/nJ7HjuwUxffkvXES6", "_blank");
   };
 
   return (
